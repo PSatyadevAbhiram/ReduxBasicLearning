@@ -1,5 +1,5 @@
 import classes from './Counter.module.css';
-import { counterActions } from '../store/redux-demo';
+import { counterActions } from '../store/counter';
 import { useSelector, useDispatch } from 'react-redux';
 
 
